@@ -1,0 +1,5 @@
+ export * from './events-create.component'
+ export * from './events-list.component'
+ export * from './events-thumbnail.component'
+ export * from './details/EventsDetailsIndex'
+ export * from './shared/EventsSharedIndex'
